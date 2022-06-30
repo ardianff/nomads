@@ -65,4 +65,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Learn
 
-Learn Laravel from class Fullstack Web Developer on [Buildwithangga.com](https://builwithangga.com).
+Learn Laravel from class Fullstack Web Developer on [Buildwithangga.com](https://buildwithangga.com).
