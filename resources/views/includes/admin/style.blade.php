@@ -6,4 +6,4 @@
 
     <!-- Custom styles for this template-->
     <link href="{{ url('backend/css/sb-admin-2.min.css') }}" rel="stylesheet">
-    <link rel="shortcut icon" href="{{ url('frontend/images/logo.png') }}" type="images/png" />
+    {{-- <link rel="shortcut icon" href="{{ url('frontend/images/logo.png') }}" type="images/png" /> --}}

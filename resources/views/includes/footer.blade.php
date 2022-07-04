@@ -41,7 +41,7 @@
                             <div class="col-12 col-lg-3">
                                 <h5>Get Connected</h5>
                                 <ul class="list-unstyled">
-                                    <li>Jakarta Selatan</li>
+                                    <li>Tembalang, Semarang</li>
                                     <li>Indonesia</li>
                                     <li>0821 - 2222 - 8888</li>
                                     <li>support@nomads.id</li>
@@ -56,7 +56,7 @@
     <div class="container-fluid">
         <div class="row border-top justify-content-center align-items-center pt-4">
             <div class="col-auto text-gray-500 font-weight-light">
-                2019 Copyright Nomads • All rights reserved • Made in Jakarta
+                2019 Copyright Nomads • All rights reserved • Made in Semarang
             </div>
         </div>
     </div>
