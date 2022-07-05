@@ -43,8 +43,10 @@
                                 <ul class="list-unstyled">
                                     <li>Tembalang, Semarang</li>
                                     <li>Indonesia</li>
-                                    <li>0821 - 2222 - 8888</li>
-                                    <li>support@nomads.id</li>
+                                    <li><a href="https://wa.me/6282122228888?text=Halo%20Admin%20Nomads"
+                                            target="_blank">0821 - 2222 - 8888</a>
+                                    </li>
+                                    <li><a href="mailto:support@nomads.id" target="_blank">support@nomads.id</a></li>
                                 </ul>
                             </div>
                         </div>
